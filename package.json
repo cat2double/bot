@@ -12,6 +12,7 @@
     "node": ">=18.0.0"
   },
   "dependencies": {
+    "@vercel/speed-insights": "^1.0.10",
     "node-schedule": "^2.0.0",
     "vercel": "^33.6.1"
   }
