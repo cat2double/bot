@@ -12,6 +12,7 @@
     "node": ">=18.0.0"
   },
   "dependencies": {
-    "node-schedule": "^2.0.0"
+    "node-schedule": "^2.0.0",
+    "vercel": "^33.6.1"
   }
 }
